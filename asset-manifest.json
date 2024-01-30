@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f740baa7.css",
+    "main.js": "./static/js/main.3c94dbd5.js",
+    "static/media/nature2.jpg": "./static/media/nature2.79d005b0e44128df8cd0.jpg",
+    "static/media/logoNN.png": "./static/media/logoNN.f4a28820b610e13cf0eb.png",
+    "static/media/Ship 1.svg": "./static/media/Ship 1.6d33d0c7374fb854b85fbd62e94e7690.svg",
+    "static/media/Public Transport 1.svg": "./static/media/Public Transport 1.4eb76565169534c9bf961219776d2dcb.svg",
+    "static/media/Bicycle 1.svg": "./static/media/Bicycle 1.6fc36dccbb052dd4aee8da5cccc1100f.svg",
+    "static/media/Motorcycle 1.svg": "./static/media/Motorcycle 1.5556125b5b57a0db782ac40551b91f42.svg",
+    "static/media/Scooter 1.svg": "./static/media/Scooter 1.452214493a025c8a1b57745be0a4f4fe.svg",
+    "static/media/Walk 1.svg": "./static/media/Walk 1.7ab2125eb16720fe61081d9dae0d3c29.svg",
+    "static/media/done1.svg": "./static/media/done1.a1353af745c7e467f99a446376b56b93.svg",
+    "static/media/done2.svg": "./static/media/done2.fce740afb08337ede43a1c40b83269b6.svg",
+    "static/media/arrow.svg": "./static/media/arrow.88666ab612710839da6119481d972a5c.svg",
+    "static/media/Aircraft 1.svg": "./static/media/Aircraft 1.4d6c92b66785b73aa209fc31221fd84d.svg",
+    "static/media/Car 1.svg": "./static/media/Car 1.0dee214032dd7a6cb62250ebffb39276.svg",
+    "static/media/arro-green.svg": "./static/media/arro-green.fabb67574342ce2b20fb5ce7320eca7e.svg",
+    "static/media/small arrow blue_light.svg": "./static/media/small arrow blue_light.e4e628850a79d2907366f20ab0d80b86.svg",
+    "static/media/small arrow green_light.svg": "./static/media/small arrow green_light.0bd894d2709e0482de1d6142685a6339.svg",
+    "index.html": "./index.html",
+    "main.f740baa7.css.map": "./static/css/main.f740baa7.css.map",
+    "main.3c94dbd5.js.map": "./static/js/main.3c94dbd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f740baa7.css",
+    "static/js/main.3c94dbd5.js"
+  ]
+}
